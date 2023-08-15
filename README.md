@@ -61,5 +61,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/mansurmansur)
+- GitHub [@mansurmansur](https://github.com/mansurmansur)
 
